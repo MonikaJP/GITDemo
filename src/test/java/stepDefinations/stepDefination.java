@@ -18,7 +18,7 @@ public class stepDefination {
   @Given("^User is on NetBanking landing page$")
     public void user_is_on_netbanking_landing_page() throws Throwable {
     //code to navigate to login url
-    	System.out.println("navigated URL successfully");
+    	System.out.println("navigatedmmmmmmmmmmmmmmmmmmmmmmmmmmmmm URL successfully");
     	
     }
   @Given("^validate the browser$")
