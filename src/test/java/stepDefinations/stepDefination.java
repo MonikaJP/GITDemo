@@ -28,7 +28,7 @@ public class stepDefination {
 
   @When("^Browser is triggered$")
   public void browser_is_triggered() throws Throwable {
-	  System.out.println("Browser is triggered");
+	  System.out.println("Browser");
   }
 
   @Then("^check if browser is started$")
